@@ -1,4 +1,4 @@
-# NeedForSpee
+# NeedForSpeed
 ### A game based on Need For Speed 
 ## Used technologies:
 ### -Native JS
