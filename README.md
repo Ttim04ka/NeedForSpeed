@@ -6,7 +6,7 @@
 
 ## Used functions:
 -Drive and overtake some cars on your own incredible beautiful sportcar.\
--Counting points.\
+-Counting points
 
 
 ## Getting Started:
